@@ -16,3 +16,6 @@ Performance:
 It is computationally heavy for microprocessors like Raspberry Pi. Hence, if the application requires deployment of face recognition module in microprocesors.
 On the other side, it is more accurate than the Haar Cascade. This ResNet Model is already in the OpenCV package.
 
+Reference:
+Pyimagesearch
+sentdex -> YouTube
